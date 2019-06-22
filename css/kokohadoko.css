@@ -1,0 +1,15 @@
+.Okinawa {
+	color: red;
+}
+
+.Kagosima{
+	color: green;
+}
+
+.Tokyo{
+	color: blue;
+}
+
+li{
+	list-style: none;  /* リストの黒点の削除*/
+}
